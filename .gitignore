@@ -40,7 +40,7 @@ build
 dist
 _book
 _jsdoc
-public
+.temp
 .deploy*/
 
 # temp files
@@ -52,8 +52,8 @@ bundle*.js
 .DS_Store
 Thumbs.db
 db.json
-package-lock.json
 book.pdf
+package-lock.json
 
 
 # ------------------------------- intellij -------------------------------
